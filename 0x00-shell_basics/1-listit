@@ -1,2 +1,6 @@
 #!bin/bash
 ls
+#!bin/bash
+Application Documents Dropbox Downloads Music Desktop Library Movies Public Pictures
+#!bin/bash
+ls
